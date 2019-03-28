@@ -1,3 +1,4 @@
 019# GitGit
-Git start
+Git start! 
 20190328
+For Linux
